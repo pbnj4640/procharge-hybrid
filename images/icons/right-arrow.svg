@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.4 (8054) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Logging-In-Process" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Pin-Entry-Page" sketch:type="MSArtboardGroup" transform="translate(-493.000000, -1039.000000)" fill="#fff">
+            <g id="Numberpad" sketch:type="MSLayerGroup" transform="translate(0.000000, 685.000000)">
+                <path d="M543,375.875 L504.875,375.875 L522.375,358.375 L518,354 L493,379 L518,404 L522.375,399.625 L504.875,382.125 L543,382.125 L543,375.875 L543,375.875 Z" id="Shape" sketch:type="MSShapeGroup" transform="translate(518.000000, 379.000000) scale(-1, 1) translate(-518.000000, -379.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
